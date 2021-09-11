@@ -1,6 +1,6 @@
 Hello, I'm Josias Costa Oliveira! 🙋🏽‍♂️
 
-I really started studying programming in 2018, but since 2016 I and my great friends have been talking about cybersecurity and IT. 📚
+I'm 21 years old, I really started studying programming in 2018, but since 2016 I and my great friends have been talking about cybersecurity and IT. 📚
 
 🔻I'm coding and studying some concepts, such as:
 
