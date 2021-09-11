@@ -1,25 +1,25 @@
-Hello, I'm Josias Costa Oliveira! 🙋‍♂️
+Hello, I'm Josias Costa Oliveira! 🙋🏽‍♂️
 
-I really started studying programming in 2018, but since 2016 me and my great friends have been talking about cybersecurity and IT.
+I really started studying programming in 2018, but since 2016 I and my great friends have been talking about cybersecurity and IT. 📚
 
-🔽I'm coding and studying some concepts, such as:
+🔻I'm coding and studying some concepts, such as:
 
-    Propositional Logic
+    ✔️ Propositional Logic
 
-    Algorithm Analysis
+    ✔️ Algorithm Analysis
 
-    Data Structures
+    ✔️ Data Structures
 
-    Web Development (particularly on the back-end)
+    ✔️ Web Development (particularly on the back-end)
 
-    Network traffic analysis with IP/TCP
+    ✔️ Network analysis of IP/TCP traffic
 
-🔽Programming Languages:
+🔻Programming Languages:
 
-    C
-    Python
-    JS
-    PHP
+    ✔️ C
+    ✔️ Python
+    ✔️ JS
+    ✔️ PHP
 
 And, in 2021, today, I'm playing hackathons and coding marathons, I was at the Recode Pro 2021 hackathon and HackerRank.
 
