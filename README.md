@@ -2,7 +2,7 @@ Hello, I'm Josias Costa Oliveira! 🙋🏽‍♂️
 
 I'm 21 years old, I really started studying programming in 2018, but since 2016 I and my great friends have been talking about cybersecurity and IT. 📚
 
-🔻I'm coding and studying some concepts, such as:
+🔻I have knowlegde some concepts, such as:
 
     ✔️ Propositional Logic
 
@@ -21,5 +21,5 @@ I'm 21 years old, I really started studying programming in 2018, but since 2016 
     ✔️ JS
     ✔️ PHP
 
-And, in 2021, today, I'm playing hackathons and coding marathons, I was at the Recode Pro 2021 hackathon and HackerRank.
+And, in 2021, today, I'm playing hackathons and coding marathons, I participated in the Recode Pro 2021 hackathod and HackerRank.
 
