@@ -2,7 +2,7 @@ Hello, I'm Josias Costa Oliveira! 🙋🏽‍♂️
 
 I'm 21 years old, I really started studying programming in 2018, but since 2016 I and my great friends have been talking about cybersecurity and IT. 📚
 
-🔻I have knowlegde some concepts, such as:
+🔻I know some concepts, such as:
 
     ✔️ Propositional Logic
 
