@@ -10,7 +10,10 @@ I'm 21 years old, I really started studying programming in 2018, but since 2016 
 
     ✔️ Web Development (particularly on the back-end)
 
+    ✔️ Nodejs
+
     ✔️ Network analysis
+
 
 🔻Programming Languages:
 
