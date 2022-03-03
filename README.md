@@ -4,7 +4,7 @@ I'm 21 years old, I really started studying programming in 2018, but since 2016 
 
 ### I'm studying and working with:
 
-- Web Development (focus in back-end):
+- Web Development (focus on the back-end):
     * Nodejs
     * Reactjs
     * HTML/CSS/JS
